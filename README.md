@@ -22,8 +22,8 @@ The ABIs are in `build/contracts`.
 
 # OpenSea Market Places
 
-*[Minter account](https://testnets.opensea.io/0x4e42c567acaec2e576ef0a0d205521e3e1a7198b)
-*[Buyer account](https://testnets.opensea.io/0xc9a8b75556d15212c093bdb25fc0e34cf129e6fa)
+* [Minter account](https://testnets.opensea.io/0x4e42c567acaec2e576ef0a0d205521e3e1a7198b)
+* [Buyer account](https://testnets.opensea.io/0xc9a8b75556d15212c093bdb25fc0e34cf129e6fa)
 
 # How To Use The Code
 
